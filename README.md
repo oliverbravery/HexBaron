@@ -1,5 +1,7 @@
 # Hex Baron: A 3D Multiplayer Remake
 >[**🔗 Play it on itch.io, here! 🔗**](https://u3b.itch.io/hb)
+>
+>[**📚 Introductory Article 📚**](https://medium.com/@oliverbravery/hex-baron-unity-multiplayer-game-development-922b4cf9a8cb)
 
 Hex Baron began as a two-dimensional, single-player, command-line game created by AQA (my A-Level examining body) in C# using the .NET 5 framework. Inspired by a classmate’s joking remark about seeing the game in 3D, I decided to challenge myself by remaking the game in Unity—transforming it into a three-dimensional, multiplayer experience.
 
